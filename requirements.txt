@@ -1,0 +1,12 @@
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+albumentations
+streamlit
+pyngrok
+Pillow
+joblib
