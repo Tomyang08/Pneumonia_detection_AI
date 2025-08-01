@@ -486,10 +486,3 @@ print(f'Label: {label}')
 # Publish Web App (Run this again whenever you make changes)
 launch_website()
 
-"""#### (Optional, if time permits) Spend some time thinking about better ways to visualize and use the model, and update the above <font color="#4169E1"><b>`app.py`</b></font>
-
-Some ideas to get you started:
-- Print out the model's probability prediction, so users can know how sure the model is in its prediction! What probabilities show more certainty in the prediction than others?
-- Display your model's summary so app users can get a sense of the architecture of the neural network in use!
-- Whatever other ideas you get from the [Streamlit cheat sheet](https://docs.streamlit.io/library/cheatsheet)!
-"""
