@@ -135,6 +135,6 @@ if uploaded_file:
 - AI, for not giving up when our accuracy dropped below 70%
 
 
-### This project revealed the gap between controlled experiments and real-world medical applications. While we achieved 85% lab accuracy, field data challenges underscored the importance of adaptable, human-centered AI. Moving forward, I plan to collaborate with clinicians to bridge this gap—combining technical rigor with practical healthcare needs to build tools that truly save lives.*  
+### This project revealed the gap between controlled experiments and real-world medical applications. While we achieved 85% lab accuracy, field data challenges underscored the importance of adaptable, human-centered AI. Moving forward, I plan to collaborate with clinicians to bridge this gap—combining technical rigor with practical healthcare needs to build tools that truly save lives. 
 
 ### For more details, refer to the presentation: https://docs.google.com/presentation/d/1OaJgCPJfzF4YikmzMSpG2Pfbn75k7XLSnv9HD_uAxpg/edit?usp=sharing
